@@ -29,6 +29,8 @@ Download web tools apk
 <table>
   <tr>
     <td><img src="assets/screen1.png" alt="Web tools app screen"></td>
+    <td><img src="assets/screen2.png" alt="Reachability tool"></td>
+    <td><img src="assets/screen3.png" alt="Source editor"></td>
 	</tr>
 </table>
   
