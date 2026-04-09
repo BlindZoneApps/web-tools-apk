@@ -1,20 +1,29 @@
 # Web Tools
 [![Downloads](https://img.shields.io/github/downloads/BlindZoneApps/web-tools-apk/total.svg?color=blue?style=flat)](https://BlindZoneApps/web-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/BlindZoneApps/web-tools-apk??color=bluelabel=version)](https://BlindZoneApps/web-tools-apk/releases)
 
+Web Tools is a powerful set of network utilities for managing servers, testing websites and diagnosing connectivity issues — right from your Android device.
+
 Download web tools apk
 
 [<img src="https://github.com/user-attachments/assets/3811fb3b-3817-4384-b116-5815283964c8" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneApps/web-tools-apk/releases/latest)
 [<img src="https://github.com/user-attachments/assets/9abc74de-aca6-4975-b1c0-8689a881aa21" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=webtools.ddm.com.webtools)
 
 ## Features
-* FTP client. A simple and fast ftp file manager for transferring data to a remote server.
-* SFTP client. A file manager that connects using a secure connection via sftp.
-* SSH client. Function for secure connection to a remote server via ssh and file administration.
-* Telnet client. Network utility for quick access to server resources via telnet protocol.
-* HTTP test. A tool to test the performance of a website and backend, such as a REST API.
-* Speed Test. A quick and easy test of the speed of the server's connection to the network.
-* Code editor. Utility for detecting errors in the code. Quick check sites for internal errors.
-* Rest API. A built-in program for testing the operation of applications written in JSON and XML.
+* FTP, FTPS & SFTP client. Manage remote files with upload, download, rename, delete, permissions editing. Supports passive/active modes, SSL/TLS encryption and resume for interrupted transfers.
+* SSH client. Full terminal emulator with public key authentication, local and remote port forwarding, configurable color schemes and font sizes.
+* Telnet client. Interactive terminal for quick access to servers via telnet protocol with VT100 support.
+* HTTP client. Test REST APIs with GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS and TRACE methods. Custom headers, cookies, authentication, request history and syntax-highlighted responses.
+* Reachability. Check host reachability via ICMP ping, TCP, UDP and HTTP echo — locally, through intermediate nodes and from remote servers worldwide.
+* URL Tracer. Follow complete redirect chains with status codes, response times and server info at each hop.
+* Source code viewer. View and edit source code with syntax highlighting, line numbers and active line indication.
+* Built-in browser. Configurable web browser with user-agent switching and flexible WebView settings for site testing.
+
+## Possibilities
+* Work remotely using a smartphone or tablet.
+* Quick detection of any failures and server errors.
+* Save and manage connection profiles for FTP, SSH and Telnet.
+* Monitor server availability with multi-protocol diagnostics.
+* Dark theme support.
 
 ## Screenshots
 <table>
