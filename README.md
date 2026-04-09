@@ -28,10 +28,7 @@ Download web tools apk
 ## Screenshots
 <table>
   <tr>
-    <td><img src="assets/screen1.png" alt="For site developers"></td>
-    <td><img src="assets/screen2.png" alt="Https test too interface"></td>
-    <td><img src="assets/screen3.png" alt="Source editor"></td>
-    <td><img src="assets/screen4.png" alt="Speed test interface"></td>
+    <td><img src="assets/screen1.png" alt="Web tools app screen"></td>
 	</tr>
 </table>
   
